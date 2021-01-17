@@ -1,4 +1,4 @@
-<center><img src="img/top.png"></center>
+<p align="center"> <img src="img/top.png"> </p>
 
 I'm a beginner web developer. I live in Salvador, Bahia, Brazil. 
 
