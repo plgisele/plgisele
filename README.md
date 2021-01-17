@@ -1,4 +1,4 @@
-<p align="center"> <img src="img/top.png"> </p>
+<p align="center"> <img src="img/top2.png"> </p>
 
 I'm a beginner web developer. I live in Salvador, Bahia, Brazil. 
 
@@ -20,11 +20,7 @@ I'm a beginner web developer. I live in Salvador, Bahia, Brazil.
 	<a href="https://twitter.com/_imxis"><img src="img/icons8-tw.png" alt="Twitter"/></a>
 </p>
 
-</br>
-</br>
+<p align="center"> <img src="img/bottom.png"> </p>
 
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgisele&hide=html&layout=compact&theme=radical" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=plgisele&theme=radical&show_icons=true" />
-</p>
+
 
