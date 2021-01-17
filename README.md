@@ -2,14 +2,12 @@
 
 I'm a beginner web developer. I live in Salvador, Bahia, Brazil. 
 
-- 📖 I'm a Software Analysis and Development student at Senac
-- 🎈 I'm an architect, but I decided to change careers
-- ✨ I'm currently learning **Responsive Web Design** and **Bootstrap**
-- 😊 Pronouns: she/her
-- 💖 I love books and Gilmore Girls
+- 📖 I'm a Software Analysis and Development student at Senac.
+- 🎈 I'm an architect, but I decided to change careers.
+- ✨ I'm currently learning **Responsive Web Design** and **Bootstrap**.
+- 😊 Pronouns: she/her.
+- 💖 I love books and Gilmore Girls.
 
-</br>
-</br>
 
 ---
 <p align="center">
